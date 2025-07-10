@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pandas
+streamlit
+schedule
+matplotlib
+seaborn
+python-dotenv
